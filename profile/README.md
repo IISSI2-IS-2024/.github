@@ -124,3 +124,27 @@ Students will be provided with:
 Students are required to:
 * Complete the backend template provided to include the required functionalities for customers.
 * Complete the frontend template provided to develop the customer frontend App.
+
+  ## Deliverables
+  ### 1st Deliverable:
+    Implement the described functional requirements in the backend:
+    * FR3: Add, edit and remove products to a new order.
+    * FR5: Listing my confirmed orders.
+    * FR8: Edit/delete order.
+
+    Ensure that backend automatic tests pass.
+  
+  ### 2nd Deliverable:
+  Implement the described functional requirements in the `customer` frontend application:
+    * FR1: Restaurants listing.  
+    * FR7: Show top 3 products.    
+    * FR2: Restaurants details and menu.    
+    * FR5: Listing my confirmed orders.    
+    * FR6: Show order details.    
+    * FR3: Add, edit and remove products to a new order.
+      * Keep in mind **FR4: Confirm or dismiss new order.** You have to allow user to confirm or dismiss the order before sending it to the backend.
+  ### 3rd Deliverable:
+  Implement the described functional requirements in the `customer` frontend application:
+    * FR8: Edit/delete order
+
+
